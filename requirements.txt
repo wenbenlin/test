@@ -1,0 +1,6 @@
+# requirements.txt
+streamlit
+openpyxl
+pandas
+plotly
+google-generativeai
