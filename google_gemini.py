@@ -1,5 +1,3 @@
-%%writefile google_gemini.py
-# from google.colab import userdata
 import streamlit as st
 import google.generativeai as genai
 
